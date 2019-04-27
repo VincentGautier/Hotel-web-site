@@ -4,4 +4,4 @@ Knowing all these informations the AmI system is able to **calculate** the best 
 In order to do all these things the AmI system is able to **control** some of the hotel bedroom “features”(lights, electric shutters, music).</br>
 Moreover the AmI system **interacts** with the user in order to give him advices on the day schedule, suggesting some naps during the day, between the appointments, and have a real time feedback on his tiredness and in general on his feelings.</br>
 
-Website: https://ami-2019.github.io/Jet-Lag-Lamp/
+Website: https://vincentgautier.github.io/Hotel-web-site/
