@@ -311,7 +311,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
         font-style: italic;
-        background-color:rgba(53,159,208,0.5);
+        
         line-height: 40px;
     }
 header .intro-text {
