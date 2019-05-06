@@ -306,15 +306,8 @@ header .intro-text .intro-heading {
         padding-bottom: 200px;
     }
 
-    header .intro-lead-in {
-        margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
-        font-style: italic;
-        
-        line-height: 40px;
-    }
-header .intro-text {
+ 
+header .intro-text .intro-lead-in{
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
