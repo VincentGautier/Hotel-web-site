@@ -323,7 +323,7 @@ header .intro-text .intro-lead-in{
         font-weight: 700;
         line-height: 75px;
     }
-}
+
 our_services {
     text-align: center;
     background-image: url(img/header_bg.jpg);
@@ -334,7 +334,7 @@ our_services {
     background-size: cover;
     -o-background-size: cover;
 }
-
+}
 section {
     padding: 100px 0;
 }
