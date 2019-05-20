@@ -324,6 +324,16 @@ header .intro-text .intro-lead-in{
         line-height: 75px;
     }
 }
+our_services {
+    text-align: center;
+    background-image: url(img/header_bg.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 
 section {
     padding: 100px 0;
