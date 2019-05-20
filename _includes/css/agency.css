@@ -323,7 +323,12 @@ header .intro-text .intro-lead-in{
         font-weight: 700;
         line-height: 75px;
     }
-
+Rooms {
+color:black;
+background-color:white;
+background-image:url(images/room.png);
+margin:0;
+}
 }
 section {
     padding: 100px 0;
