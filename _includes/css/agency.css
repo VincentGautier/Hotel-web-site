@@ -883,7 +883,7 @@ a img{
 border: none;
 }
 .bloc{
-background: #d7eeff; /*si on veut une couleur de fond*/
+background: #ffffff; /*si on veut une couleur de fond*/
 margin-bottom: 10px; /*espace entre les blocs*/
 width: 350px; /*largeur du bloc image + texte*/
 }
