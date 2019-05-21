@@ -323,7 +323,7 @@ header .intro-text .intro-lead-in{
         font-weight: 700;
         line-height: 75px;
     }
-our_rooms {
+#our_rooms {
 color:black;
 background-color:white;
 background-image:url(images/room.png);
