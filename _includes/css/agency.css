@@ -897,15 +897,15 @@ margin-left: 130px; /*largeur de l'image + quelques px de marge*/
 
 
 div#col_1 {
-	float: left;
+	margin-left: 50px;
 	width: 300px;
 }
 div#col_3 {
-	float: right;
+	margin-right: 50px;
 	width: 300px;
 }
 div#centre {
-	margin-left: 310px;
-	margin-right: 310px;
+	margin-left: 250px;
+	margin-right: 250px;
 	…
 }
