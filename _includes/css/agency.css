@@ -900,12 +900,14 @@ div#col_1 {
 	margin-left: 100px;
 	width: 300px;
 }
+
+div#centre {
+	
+	margin-right:600px;
+
+}
 div#col_3 {
 	margin-right: 100px;
 	width: 300px;
 }
-div#centre {
-	
-	margin-left:400px;
 
-}
