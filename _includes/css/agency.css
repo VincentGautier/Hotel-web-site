@@ -894,3 +894,18 @@ float: left;
 height: 80px; /*hauteur de l'image*/
 margin-left: 130px; /*largeur de l'image + quelques px de marge*/
 }
+
+
+div#col_1 {
+	float: left;
+	width: 300px;
+}
+div#col_3 {
+	float: right;
+	width: 300px;
+}
+div#centre {
+	margin-left: 310px;
+	margin-right: 310px;
+	…
+}
