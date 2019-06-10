@@ -510,9 +510,7 @@ section h3.section-subheading {
 .rating a:hover,
 .rating a:focus,
 .rating a:hover ~ a,
-.rating a:focus ~ a {
    color: orange;
-   cursor: pointer;
 }
     height: 80px;
     margin-left: 0;
