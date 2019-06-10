@@ -498,6 +498,22 @@ section h3.section-subheading {
     position: absolute;
     left: 0;
     width: 80px;
+
+
+.rating a {
+   float: right;
+   color: #aaa;
+   text-decoration: none;
+   font-size: 3em;
+   transition: color .4s;
+}
+.rating a:hover,
+.rating a:focus,
+.rating a:hover ~ a,
+.rating a:focus ~ a {
+   color: orange;
+   cursor: pointer;
+}
     height: 80px;
     margin-left: 0;
     border: 7px solid #f1f1f1;
