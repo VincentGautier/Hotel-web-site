@@ -498,20 +498,26 @@ section h3.section-subheading {
     position: absolute;
     left: 0;
     width: 80px;
+.rating > span:hover:before {
+   content: "\2605";
+   position: absolute;
+   top:0;
+   left:0;
+   color:gold;
+}
+
+.rating {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
+   content: "\2605";
+   position: absolute;
+}
 
 
-.rating a {
-   float: right;
-   color: orange;
-   text-decoration: none;
-   font-size: 3em;
-   transition: color .4s;
-}
-.rating a:hover,
-.rating a:focus,
-.rating a:hover ~ a,
-   color: orange;
-}
+
     height: 80px;
     margin-left: 0;
     border: 7px solid #f1f1f1;
