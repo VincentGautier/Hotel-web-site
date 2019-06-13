@@ -498,13 +498,6 @@ section h3.section-subheading {
     position: absolute;
     left: 0;
     width: 80px;
-.rating > span:hover:before {
-   content: "\2605";
-   position: absolute;
-   top:0;
-   left:0;
-   color:gold;
-}
 
     height: 80px;
     margin-left: 0;
@@ -513,6 +506,13 @@ section h3.section-subheading {
     text-align: center;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
+}
+.rating > span:hover:before {
+   content: "\2605";
+   position: absolute;
+   top:0;
+   left:0;
+   color:gold;
 }
 
 .timeline>li .timeline-image h4 {
