@@ -502,7 +502,7 @@ section h3.section-subheading {
 
 .rating a {
    float: right;
-   color: #aaa;
+   color: orange;
    text-decoration: none;
    font-size: 3em;
    transition: color .4s;
