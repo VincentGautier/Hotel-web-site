@@ -507,12 +507,22 @@ height: 80px;
     background-color: #{{ site.data.template.color.primary }};
 }
 
-    .rating > span:hover:before {
+ .rating {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+.rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.1em;
+}
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
    content: "\2605";
    position: absolute;
+   color:gold;
    top:0;
    left:0;
-   color:gold;
 }
 
 .timeline>li .timeline-image h4 {
