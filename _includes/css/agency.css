@@ -507,7 +507,7 @@ height: 80px;
     background-color: #{{ site.data.template.color.primary }};
 }
 
-.rating = span {
+.rating > span {
  
   position: relative;
   width: 1.1em;
