@@ -498,8 +498,7 @@ section h3.section-subheading {
     position: absolute;
     left: 0;
     width: 80px;
-
-    height: 80px;
+height: 80px;
     margin-left: 0;
     border: 7px solid #f1f1f1;
     border-radius: 100%;
@@ -507,7 +506,8 @@ section h3.section-subheading {
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
-.rating > span:hover:before {
+
+    .rating > span:hover:before {
    content: "\2605";
    position: absolute;
    top:0;
