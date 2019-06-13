@@ -498,25 +498,13 @@ section h3.section-subheading {
     position: absolute;
     left: 0;
     width: 80px;
-.rating {
-  unicode-bidi: bidi-override;
-  direction: rtl;
- }
-.rating > span {
-  display: inline-block;
-  position: relative;
-color:gold;
-  width: 1.1em;
-}
-.rating > span:hover:before,
-.rating > span:hover ~ span:before {
+.rating > span:hover:before {
    content: "\2605";
    position: absolute;
-   color:gold;
    top:0;
    left:0;
+   color:gold;
 }
-
 
     height: 80px;
     margin-left: 0;
