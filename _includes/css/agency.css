@@ -507,10 +507,6 @@ height: 80px;
     background-color: #{{ site.data.template.color.primary }};
 }
 
- .rating {
-  unicode-bidi: bidi-override;
-  direction: rtl;
-}
 .rating > span {
   display: inline-block;
   position: relative;
