@@ -501,8 +501,7 @@ section h3.section-subheading {
 .rating {
   unicode-bidi: bidi-override;
   direction: rtl;
- color:gold;
-}
+ }
 .rating > span {
   display: inline-block;
   position: relative;
