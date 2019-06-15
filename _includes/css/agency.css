@@ -15,7 +15,7 @@ body {
 }
 .dest-hotel {
     color: #{{ site.data.template.color.muted }};
-    font-size: 9 px;
+    font-size: 15 px;
 }
 
 .text-primary {
