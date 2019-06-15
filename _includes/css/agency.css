@@ -13,6 +13,10 @@ body {
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
+.dest-hotel {
+    color: #{{ site.data.template.color.muted }};
+    font-size: 10px;
+}
 
 .text-primary {
     color: #{{ site.data.template.color.primary }};
