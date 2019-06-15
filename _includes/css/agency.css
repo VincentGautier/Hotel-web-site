@@ -518,6 +518,10 @@ height: 80px;
     color: gold;
 }
 			
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
 
 .timeline>li .timeline-image h4 {
     margin-top: 12px;
