@@ -901,7 +901,7 @@ border: none;
 .bloc{
 background: #ffffff; /*si on veut une couleur de fond*/
 margin-bottom: 10px; /*espace entre les blocs*/
-width: 350px; /*largeur du bloc image + texte*/
+width: 900px; /*largeur du bloc image + texte*/
 }
 .bloc img{
 float: left;
