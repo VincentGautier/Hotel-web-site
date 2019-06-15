@@ -901,8 +901,14 @@ border: none;
 .bloc{
 background: #ffffff; /*si on veut une couleur de fond*/
 margin-bottom: 10px; /*espace entre les blocs*/
+width: 300px; /*largeur du bloc image + texte*/
+}
+.bloc_rooms{
+background: #ffffff; /*si on veut une couleur de fond*/
+margin-bottom: 10px; /*espace entre les blocs*/
 width: 900px; /*largeur du bloc image + texte*/
 }
+
 .bloc img{
 float: left;
 }
