@@ -895,6 +895,15 @@ width: 750px;
 margin-bottom: 20px;
 padding: 20px;
 }
+#corps_rooms{
+float: left;
+text-align: left;
+margin-left: 15px;
+width: 900px;
+margin-bottom: 20px;
+padding: 30px;
+}
+
 a img{
 border: none;
 }
