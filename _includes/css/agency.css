@@ -557,11 +557,11 @@ thead th, tfoot th, tfoot td {
   border: 3px solid purple;
 }
 tbody tr:nth-child(odd) {
-  background-color: #ff33cc;
+  background-color: #3393FF;
 }
 
 tbody tr:nth-child(even) {
-  background-color: #e495e4;
+  background-color: #A233FF;
 }
 
 tbody tr {
