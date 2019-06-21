@@ -557,7 +557,7 @@ thead th, tfoot th, tfoot td {
   border: 3px solid gray;
 }
 tbody tr:nth-child(odd) {
-  background-color: #3CE9F9;
+  background-color: #02C7DE;
 }
 
 tbody tr:nth-child(even) {
