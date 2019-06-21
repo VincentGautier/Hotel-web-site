@@ -326,7 +326,9 @@ header .intro-text .intro-lead-in{
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+
     }
+
 #our_rooms {
 color:black;
 background-color:white;
@@ -496,7 +498,6 @@ section h3.section-subheading {
     border-right-width: 14px;
     border-left-width: 0;
 }
-
 .timeline>li .timeline-image {
     z-index: 100;
     position: absolute;
