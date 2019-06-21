@@ -566,7 +566,14 @@ tbody tr:nth-child(even) {
 
 table {
   background-color: #6D8284;
-}		
+}
+
+caption {
+  padding: 20px;
+  font-style: italic;
+  
+}
+		
 IMG.displayed {
     display: block;
     margin-left: auto;
