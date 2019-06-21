@@ -561,7 +561,7 @@ tbody tr:nth-child(odd) {
 }
 
 tbody tr:nth-child(even) {
-  background-color: #A233FF;
+  background-color: #0F8E99;
 }
 
 tbody tr {
@@ -569,7 +569,7 @@ tbody tr {
 }
 
 table {
-  background-color: #ff33cc;
+  background-color: #6D8284;
 }		
 IMG.displayed {
     display: block;
